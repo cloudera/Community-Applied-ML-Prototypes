@@ -38,7 +38,7 @@ entries:
     long_description: |
         Install and deploy Solr 9 and its dependencies to run as an application in CML.
     long_description_html: |
-        Install and deploy Solr 9 and its dependencies to run as an application in CML
+        Install and deploy Solr 9 and its dependencies to run as an application in CML.
     tags:
       - Solr 9
     git_url: 'https://github.com/kevinbtalbert/CML_AMP_Solr_9'
