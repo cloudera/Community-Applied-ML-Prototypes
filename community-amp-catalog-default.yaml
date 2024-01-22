@@ -19,12 +19,27 @@ entries:
     short_description: |
         Run a browser interface based on Gradio library for Stable Diffusion within the CML platform.
     long_description: |
-        Run a browser interface based on Gradio library for Stable Diffusion within the CML platformL.
+        Run a browser interface based on Gradio library for Stable Diffusion within the CML platform.
     long_description_html: |
         Run a browser interface based on Gradio library for Stable Diffusion within the CML platform.
     tags:
       - Text2Image
       - Stable Diffusion
     git_url: 'https://github.com/kevinbtalbert/CML_AMP-Text-to-Image-with-Stable-Diffusion'
+    is_prototype: true
+    is_community: true
+  - title: Text Summarization using IBM watsonx.ai
+    label: CML_AMP_watsonxai
+    short_description: |
+        This repository demonstrates how to use watson machine learning Python SDK to call watsonx.ai models from Cloudera Machine Learning (CML) workspace.
+    long_description: |
+        This repository demonstrates how to use watson machine learning Python SDK to call watsonx.ai models from Cloudera Machine Learning (CML) workspace.
+    long_description_html: |
+        This repository demonstrates how to use watson machine learning Python SDK to call watsonx.ai models from Cloudera Machine Learning (CML) workspace.
+    tags:
+      - watsonx
+      - Text Summarization
+      - IBM
+    git_url: 'https://github.com/agupta-git/CML_AMP_watsonxai'
     is_prototype: true
     is_community: true
