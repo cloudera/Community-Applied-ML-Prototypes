@@ -31,3 +31,4 @@ entries:
     git_url: 'https://github.com/agupta-git/CML_AMP_watsonxai'
     is_prototype: true
     is_community: true
+    is_new: true
