@@ -1,6 +1,27 @@
 name: Community
 
 entries:
+  - title: Contextual Chatbot with NeMo Guardrails
+    label: CML_AMP_NeMo-Guardrails-Chatbot
+    short_description: |
+        This Applied Machine Learning Prototype (AMP) is a similarity-search chatbot that demonstrates safe and responsible AI use for organizations through customizable guardrails.
+    long_description: |
+        This Applied Machine Learning Prototype (AMP) builds a similarity-search based chatbot built using Langchain, OpenAI embeddings, Pinecone Vector DB, and NeMo-Guardrails. This chatbot is designed to showcase how organizations can leverage AI safely and responsibly by implementing guardrails.
+    long_description_html: |
+        This Applied Machine Learning Prototype (AMP) builds a similarity-search based chatbot built using Langchain, OpenAI embeddings, Pinecone Vector DB, and NeMo-Guardrails. This chatbot is designed to showcase how organizations can leverage AI safely and responsibly by implementing guardrails.
+    tags:
+      - NeMo Guardrails
+      - Secure AI
+      - OpenAI
+      - Langchain
+      - Pinecone
+      - Streamlit
+      - NVIDIA Rails
+      - Chatbot
+    git_url: 'https://github.com/kevinbtalbert/CML_AMP_NeMo-Guardrails-Chatbot'
+    is_prototype: true
+    is_community: true
+    is_new: true
   - title: Text to Image Using Stable Diffusion
     label: CML_AMP-Text-to-Image-with-Stable-Diffusion
     short_description: |
