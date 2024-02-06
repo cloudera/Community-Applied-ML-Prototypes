@@ -9,6 +9,8 @@ entries:
         This Applied Machine Learning Prototype (AMP) builds a similarity-search based chatbot built using Langchain, OpenAI embeddings, Pinecone Vector DB, and NeMo-Guardrails. This chatbot is designed to showcase how organizations can leverage AI safely and responsibly by implementing guardrails.
     long_description_html: |
         This Applied Machine Learning Prototype (AMP) builds a similarity-search based chatbot built using Langchain, OpenAI embeddings, Pinecone Vector DB, and NeMo-Guardrails. This chatbot is designed to showcase how organizations can leverage AI safely and responsibly by implementing guardrails.
+    image_path: >-
+      https://raw.githubusercontent.com/kevinbtalbert/CML_AMP_NeMo-Guardrails-Chatbot/main/assets/demo.png
     tags:
       - NeMo Guardrails
       - Secure AI
@@ -30,6 +32,8 @@ entries:
         Run a browser interface based on Gradio library for Stable Diffusion within the CML platform.
     long_description_html: |
         Run a browser interface based on Gradio library for Stable Diffusion within the CML platform.
+    image_path: >-
+      https://raw.githubusercontent.com/kevinbtalbert/CML_AMP-Text-to-Image-with-Stable-Diffusion/master/catalog-entry.png
     tags:
       - Text2Image
       - Stable Diffusion
@@ -45,6 +49,8 @@ entries:
         This repository demonstrates how to use watson machine learning Python SDK to call watsonx.ai models from Cloudera Machine Learning (CML) workspace.
     long_description_html: |
         This repository demonstrates how to use watson machine learning Python SDK to call watsonx.ai models from Cloudera Machine Learning (CML) workspace.
+    image_path: >-
+      https://raw.githubusercontent.com/agupta-git/CML_AMP_watsonxai/main/assets/app_interface.png
     tags:
       - watsonx
       - Text Summarization
