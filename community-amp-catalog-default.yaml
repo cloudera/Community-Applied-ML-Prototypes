@@ -77,3 +77,16 @@ entries:
     is_prototype: true
     is_community: true
     is_new: true
+  - title: Ray on CML QuickStart
+    label: ray
+    short_description: A series of starter notebooks that demonstrate how to use Ray on CML
+    long_description: >-
+      A series of starter notebooks that demonstrate how to launch a Ray cluster, use python libraries, train and deploy a model using Ray Tune in CML.
+    image_path: >-
+      https://github.com/vidushisomani/CML_Ray_Starter_AMP/blob/main/images/amp-cover.png?raw=true
+    tags:
+      - Ray
+    git_url: "https://github.com/vidushisomani/CML_Ray_Starter_AMP.git" 
+    is_prototype: true
+    is_community: true
+    is_new: true
