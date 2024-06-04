@@ -91,7 +91,7 @@ entries:
     is_community: true
     is_new: true
   - title: Solr 9
-    label: solr-runtime
+    label: CML_AMP_solr-runtime
     short_description: |
       Run Solr 9 as an Application within an AMP. Installs necessary Solr and Java runtime components.
     long_description: |
