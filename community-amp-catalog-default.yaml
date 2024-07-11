@@ -121,3 +121,43 @@ entries:
     is_prototype: true
     is_community: true
     is_new: true
+  - title: AviWind Guardian
+    label: AviWindGuardian
+    short_description: 2024 Climate and Sustainability Hackathon with AMD 1st Place - AviWind Guardian aims to leverage machine learning and data analytics to predict and mitigate the impacts of wind turbines on migratory birds.
+    long_description: >-
+      As the world increasingly turns to renewable energy to address the climate crisis, the expansion of wind power poses significant ecological challenges, particularly for migratory birds. The growth of wind farms leads to bird collisions with turbines and habitat disruptions, threatening species and ecological balance. The placement of wind farms often results in habitat loss, affecting essential ecological processes like pollination and seed dispersal. Addressing these issues, AviWind Guardian harnesses machine learning and data analytics to predict and mitigate impacts on migratory birds, aiding developers and conservationists in fostering a balance between advancing renewable energy and preserving avian life and ecological equilibrium..
+    tags:
+      - WindGuardian
+    git_url: "https://github.com/trueblood/AviWindGuardian.git"
+    git_ref: "80b56a44a60d0de586bc7e1cc7bd093fe5a402fa"
+    is_prototype: true
+    is_community: true
+    is_new: true
+  - title: CECALT Hurricane Behavior Predictor
+    label: CECALT
+    short_description: 2024 Climate and Sustainability Hackathon with AMD 2nd Place - Objective of demonstrating that the developed model can improve the reliability of wind speed prediction in hurricanes, taking into account several novel factors
+    long_description: >-
+      The CECALT Hurricane Behavior Predictor project has developed a model to enhance wind speed prediction reliability during hurricanes by considering variables such as peak wind speed, geographical coordinates, atmospheric conditions, and changes in wind speed. The model is integrated into an application with a user-friendly interface that allows for real-time input of hurricane data. Once processed, the application displays the estimated wind speed and the hurricane's location on a map, leveraging Cloudera’s robust infrastructure and machine learning capabilities. This setup promises to facilitate proactive decision-making and timely responses to changing hurricane intensities.
+    tags:
+      - CECALT
+      - HurricanePredictor
+    git_url: "https://github.com/amcm329/cod_hurricane_prediction.git"
+    git_ref: "efcf5c5adf629b675904103daf7f41e782e8665f"
+    is_prototype: true
+    is_community: true
+    is_new: true
+  - title: Climate Change Impact on the Himalayan Timberline
+    label: HimalayanTimberline
+    short_description: 2024 Climate and Sustainability Hackathon with AMD 3rd Place - Assessing the Impact of Climate Change on Himalayan Timberline Elevation - Developing a Novel Tool for Analyzing Correlation with Temperature and Precipitation
+    long_description: >-
+      The Himalayan timberline, marking the upper tree growth limit in this high mountain range, is crucial for stabilizing mountain slopes, regulating water flow, and providing wildlife habitat. Positioned between 3,500 and 4,500 meters, it features a range of plant species adapted to severe conditions like extreme cold, high winds, and low oxygen. However, this sensitive ecological zone faces threats from climate change, evidenced by rapid warming trends that outpace global averages, especially in the Trans-Himalayan cold deserts. These changes, including altered precipitation patterns and temperature gradients, endanger the timberline's stability, water regulatory roles, and biodiversity. Addressing these challenges requires a comprehensive understanding of how climatic variables like temperature and precipitation impact the timberline ecosystem, informing targeted mitigation and adaptation strategies to preserve this fragile ecological balance for future generations.
+    image_path: >-
+      https://github.com/vidushisomani/CML_Ray_Starter_AMP/blob/main/images/amp-cover.png?raw=true
+    tags:
+      - Himalayan
+      - Timberline
+    git_url: "https://github.com/Lokeshiiith/Cloudera_project.git" 
+    git_ref: "efcf5c5adf629b675904103daf7f41e782e8665f"
+    is_prototype: true
+    is_community: true
+    is_new: true
