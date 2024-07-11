@@ -151,8 +151,6 @@ entries:
     short_description: 2024 Climate and Sustainability Hackathon with AMD 3rd Place - Assessing the Impact of Climate Change on Himalayan Timberline Elevation - Developing a Novel Tool for Analyzing Correlation with Temperature and Precipitation
     long_description: >-
       The Himalayan timberline, marking the upper tree growth limit in this high mountain range, is crucial for stabilizing mountain slopes, regulating water flow, and providing wildlife habitat. Positioned between 3,500 and 4,500 meters, it features a range of plant species adapted to severe conditions like extreme cold, high winds, and low oxygen. However, this sensitive ecological zone faces threats from climate change, evidenced by rapid warming trends that outpace global averages, especially in the Trans-Himalayan cold deserts. These changes, including altered precipitation patterns and temperature gradients, endanger the timberline's stability, water regulatory roles, and biodiversity. Addressing these challenges requires a comprehensive understanding of how climatic variables like temperature and precipitation impact the timberline ecosystem, informing targeted mitigation and adaptation strategies to preserve this fragile ecological balance for future generations.
-    image_path: >-
-      https://github.com/vidushisomani/CML_Ray_Starter_AMP/blob/main/images/amp-cover.png?raw=true
     tags:
       - Himalayan
       - Timberline
