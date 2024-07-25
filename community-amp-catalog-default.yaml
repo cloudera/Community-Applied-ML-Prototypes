@@ -159,3 +159,20 @@ entries:
     is_prototype: true
     is_community: true
     is_new: true
+  - title: DocGenius AI - Generative AI Chatbot Powered by CML
+    label: doc-genius-ai
+    short_description: Generative AI Chatbot for your Documents powered by Cloudera Machine Learning
+    long_description: >-
+      Generative AI Chatbot for your Documents powered by Cloudera Machine Learning
+    image_path: >-
+      https://raw.githubusercontent.com/thammuio/doc-genius-ai/main/images/doc-genius-ai.png
+    tags:
+      - Cloudera Community AMPs
+      - Cloudera Machine Learning
+      - Generative AI Chatbot
+      - RAG Pipelines
+      - LLMOps
+    git_url: "https://github.com/thammuio/doc-genius-ai.git"
+    is_prototype: true   
+    is_community: true
+    is_new: true
