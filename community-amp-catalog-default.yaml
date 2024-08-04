@@ -14,6 +14,19 @@ entries:
     is_prototype: true
     is_community: true
     is_new: true
+  - title: Multi-Agent API Orchestrator using CrewAI
+    label: multiagent
+    short_description: Talk to your APIs using a multi-agent system powered by CrewAI
+    long_description: >-
+       This project highlights the impressive capabilities of multi-agent systems with the CrewAI framework. It enables users to provide API specifications and interact with their services using natural language, illustrating the potential of these systems to automate and streamline complex workflows. 
+    image_path: >-
+      https://raw.githubusercontent.com/pranav-bhatt/ai_agents/main/assets/amp_splash_image.png
+    tags:
+      - MultiAgents
+    git_url: "https://github.com/pranav-bhatt/ai_agents.git" 
+    is_prototype: true
+    is_community: true
+    is_new: true
   - title: Chat with your Documents
     label: docchat
     short_description: Chatbot for Custom Documents
