@@ -1,6 +1,32 @@
 name: Community
 
 entries:
+  - title: Knowledge Graph on CML
+      label: knowledgegraph
+      short_description: Hybrid Knowledge Graph based AMP asds
+      long_description: >-
+        RAG(Retrieval Augmented Generation) application with a knowledge graph supported by graph DBs to capture relationships and contexts not easily accessible with vector databases
+      image_path: >-
+        https://github.com/ritzvik/Knowledge-Graph-backed-RAG-AMP/blob/main/assets/example_knowledge_graph.png?raw=true
+      tags:
+        - KnowledgeGraph
+      git_url: "https://github.com/ritzvik/Knowledge-Graph-backed-RAG-AMP.git" 
+      is_prototype: true
+      is_community: true
+      is_new: true
+  - title: Chat with your Documents
+      label: docchat
+      short_description: Chatbot for Custom Documents
+      long_description: >-
+        Pre-trained instruction-following LLM (Large Language Model) ChatBot enhanced by context from an internal knowledge base 
+      image_path: >-
+        https://github.com/mihir2921/LlamaIndex_IN_CML_AMP/blob/main/assets/images/rag.png?raw=true
+      tags:
+        - DocChat
+      git_url: "https://github.com/mihir2921/LlamaIndex_IN_CML_AMP.git" 
+      is_prototype: true
+      is_community: true
+      is_new: true
   - title: Contextual Chatbot with NeMo Guardrails
     label: CML_AMP_NeMo-Guardrails-Chatbot
     short_description: |
