@@ -45,6 +45,22 @@ entries:
     is_prototype: true
     is_community: true
     is_new: true
+  - title: Fine-Tuning Studio
+    label: finetunestudio
+    short_description: CML Fine-Tuning Studio
+    long_description: >-
+       A one-stop-shop interface for managing, viewing, launching, and monitoring LLM fine-tuning jobs within a CML workspace
+    image_path: >-
+      https://github.com/Suryakant03/CML_AMP_Fine_Tuning_With_Streamlit_Prototype/blob/release/images/ft-studio-colorfix-catalog.png?raw=true
+    tags:
+      - finetuning
+      - evaluation
+      - fine-tuning
+      - mlflow
+    git_url: "https://github.com/Suryakant03/CML_AMP_Fine_Tuning_With_Streamlit_Prototype.git" 
+    is_prototype: true
+    is_community: true
+    is_new: true
   - title: Contextual Chatbot with NeMo Guardrails
     label: CML_AMP_NeMo-Guardrails-Chatbot
     short_description: |
