@@ -36,7 +36,7 @@ entries:
     long_description: >-
       Pre-trained instruction-following LLM (Large Language Model) ChatBot enhanced by context from an internal knowledge base 
     image_path: >-
-      https://github.com/mihir2921/LlamaIndex_IN_CML_AMP/blob/main/assets/images/rag.png?raw=true
+      https://github.com/mihir2921/LlamaIndex_IN_CML_AMP/blob/main/assets/images/logo.png?raw=true
     tags:
       - DocChat
       - RAG
