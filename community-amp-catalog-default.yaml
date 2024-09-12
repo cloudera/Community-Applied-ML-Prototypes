@@ -1,21 +1,6 @@
 name: Community
 
 entries:
-  - title: RAG with Knowledge Graph on CML
-    label: knowledgegraph
-    short_description: Hybrid Knowledge Graph based AMP
-    long_description: >-
-      RAG(Retrieval Augmented Generation) application with a knowledge graph supported by graph DBs to capture relationships and contexts not easily accessible with vector databases
-    image_path: >-
-      https://github.com/ritzvik/Knowledge-Graph-backed-RAG-AMP/blob/main/assets/example_knowledge_graph.png?raw=true
-    tags:
-      - KnowledgeGraph
-      - neo4j
-      - RAG
-    git_url: "https://github.com/ritzvik/Knowledge-Graph-backed-RAG-AMP.git" 
-    is_prototype: true
-    is_community: true
-    is_new: true
   - title: Multi-Agent API Orchestrator using CrewAI
     label: multiagent
     short_description: Talk to your APIs using a multi-agent system powered by CrewAI
