@@ -25,11 +25,13 @@ entries:
     image_path: >-
       https://raw.githubusercontent.com/thammuio/doc-genius-ai/main/images/doc-genius-ai.png
     tags:
-      - Community AMPs
+      - Professional Services
       - Cloudera AI
       - Generative AI
       - RAG Pipelines
       - LLMOps
+      - Chatbot
+      - AI Agents
     git_url: "https://github.com/thammuio/doc-genius-ai.git"
     is_prototype: true
     is_community: true
