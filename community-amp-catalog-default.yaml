@@ -9,7 +9,7 @@ entries:
       This AMP shows a basic solution for doing network packet analysis and provide a natural language query capability.
       ---------------------------
       IMPORTANT: Please read the following before proceeding.  This AMP includes or otherwise depends on certain third party software packages. Information about such third party software packages are made available in the notice file associated with this AMP. By configuring and launching this AMP, you will cause such third party software packages to be downloaded and installed into your environment, in some instances, from third parties' websites. For each third party software package, please see the notice file and the applicable websites for more information, including the applicable license terms. If you do not wish to download and install the third party software packages, do not configure, launch or otherwise use this AMP. By configuring, launching or otherwise using the AMP, you acknowledge the foregoing statement and agree that Cloudera is not responsible or liable in any way for the third party software packages.
-    image_path: "https://git.schuler.me/thesneakernet/amp-telco-packetanalysis/-/blob/546ab8e4d121f7716148fefbe3529418b3216e24/pcap-icon.png"
+    image_path: "https://git.schuler.me/thesneakernet/amp-telco-packetanalysis/-/raw/main/pcap-icon.png"
     tags:
       - Anthropic
       - Pinecone
@@ -49,7 +49,7 @@ entries:
       This AMP spins up a solution that uses Crew AI and Anthropic to monitor four different Sites with six wells each.  
       ---------------------------
       IMPORTANT: Please read the following before proceeding.  This AMP includes or otherwise depends on certain third party software packages. Information about such third party software packages are made available in the notice file associated with this AMP. By configuring and launching this AMP, you will cause such third party software packages to be downloaded and installed into your environment, in some instances, from third parties' websites. For each third party software package, please see the notice file and the applicable websites for more information, including the applicable license terms. If you do not wish to download and install the third party software packages, do not configure, launch or otherwise use this AMP. By configuring, launching or otherwise using the AMP, you acknowledge the foregoing statement and agree that Cloudera is not responsible or liable in any way for the third party software packages.
-    image_path: "https://git.schuler.me/thesneakernet/amp-oilandgas-agenticwellmonitoring/-/blob/82412ae212ebae67c9bb1df2cdbdc62924cfc310/pump-monitoring-icon.png"
+    image_path: "https://git.schuler.me/thesneakernet/amp-oilandgas-agenticwellmonitoring/-/raw/main/pump-monitoring-icon.png"
     tags:
       - Anthropic
       - CrewAI
