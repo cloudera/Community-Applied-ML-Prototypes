@@ -1,8 +1,8 @@
 name: Community
 
 entries:
-  - title: Telco - Packet Analysis
-    label: Telco Packet Analysis
+  - title: Telco Packet Analysis
+    label: telco-packet-analysis
     short_description: |
       An Agentic demo of network traffic to identify anomalies and their associated CVEs.
     long_description: |
@@ -22,7 +22,7 @@ entries:
     is_community: true
     is_new: true
   - title: FSI Demo ID validation and account retrieval
-    label: FSI Demo KYC
+    label: fsi-demo
     short_description: |
       a RAG enhanced data retrieval based on a user ID image
     long_description: |
@@ -42,7 +42,7 @@ entries:
     is_community: true
     is_new: true
   - title: Agentic Oil and Gas Site and Well monitor
-    label: Agentic Oil and Gas monitor
+    label: agentic-oil-gas
     short_description: |
       An Agentic AI solution for the oil and gas site and well monitoring
     long_description: |
