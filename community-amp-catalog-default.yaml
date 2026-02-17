@@ -1,6 +1,27 @@
 name: Community
 
 entries:
+  - title: ASAP On-device DPO Finetuning
+    label: asap_finetuning
+    short_description: |
+      On-device DPO + QLoRA fine-tuning to ground a SLM in oil-and-gas jargons.
+    long_description: |
+      This AMP fine-tunes a small instruction model (e.g., Llama-3.2-1B) with Direct Preference Optimization and 4-bit QLoRA adapters using a local small dataset of oil and gas preference pairs.
+      The hyperparameters are noted in `00_configs/dpo.json`. The Jupyter notebook workflow simplifies the implementation.
+      The goal is to enable a training on laptop or desktop for a domain grounding before scaling to larger models, datasets, or remote GPUs.
+      ---------------------------
+      IMPORTANT: Please read the following before proceeding.  This AMP includes or otherwise depends on certain third party software packages. Information about such third party software packages are made available in the notice file associated with this AMP. By configuring and launching this AMP, you will cause such third party software packages to be downloaded and installed into your environment, in some instances, from third parties' websites. For each third party software package, please see the notice file and the applicable websites for more information, including the applicable license terms. If you do not wish to download and install the third party software packages, do not configure, launch or otherwise use this AMP. By configuring, launching or otherwise using the AMP, you acknowledge the foregoing statement and agree that Cloudera is not responsible or liable in any way for the third party software packages.
+    image_path: "https://raw.githubusercontent.com/cloudera/CAI_AMP_DPO-Fine-Tuning/refs/heads/main/cover-art.png"
+    tags:
+      - Finetuning
+      - Small Language Model
+      - On-device Training
+      - Direct Preference Optimization
+    git_url: "https://github.com/cloudera/CAI_AMP_DPO-Fine-Tuning.git"
+    git_ref: "main"
+    is_prototype: true
+    is_community: true
+    is_new: true
   - title: AI Inference Scaling Optimization
     label: inference-scaling-moo
     short_description: |
