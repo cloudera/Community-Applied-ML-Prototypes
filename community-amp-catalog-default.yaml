@@ -222,11 +222,11 @@ entries:
     long_description: >-
        This project highlights the impressive capabilities of multi-agent systems with the CrewAI framework. It enables users to provide API specifications and interact with their services using natural language, illustrating the potential of these systems to automate and streamline complex workflows. 
     image_path: >-
-      https://raw.githubusercontent.com/pranav-bhatt/ai_agents/main/assets/amp_splash_image.png
+      https://github.com/cloudera/AI_AGENTS/blob/master/assets/amp_splash_image.png
     tags:
       - MultiAgents
       - crewai
-    git_url: "https://github.com/pranav-bhatt/ai_agents.git" 
+    git_url: "https://github.com/cloudera/AI_AGENTS.git" 
     is_prototype: true
     is_community: true
     is_new: true
