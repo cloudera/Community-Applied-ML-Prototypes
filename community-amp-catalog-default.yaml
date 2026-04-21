@@ -276,7 +276,7 @@ entries:
     long_description_html: |
         This Applied Machine Learning Prototype (AMP) builds a similarity-search based chatbot built using Langchain, OpenAI embeddings, Pinecone Vector DB, and NeMo-Guardrails. This chatbot is designed to showcase how organizations can leverage AI safely and responsibly by implementing guardrails.
     image_path: >-
-      https://raw.githubusercontent.com/kevinbtalbert/CML_AMP_NeMo-Guardrails-Chatbot/main/assets/demo.png
+      https://raw.githubusercontent.com/kevintalbert/CML_AMP_NeMo-Guardrails-Chatbot/main/assets/demo.png
     tags:
       - NeMo Guardrails
       - Secure AI
@@ -286,7 +286,7 @@ entries:
       - Streamlit
       - NVIDIA Rails
       - Chatbot
-    git_url: 'https://github.com/kevinbtalbert/CML_AMP_NeMo-Guardrails-Chatbot.git'
+    git_url: 'https://github.com/kevintalbert/CML_AMP_NeMo-Guardrails-Chatbot.git'
     is_prototype: true
     is_community: true
     is_new: false
@@ -305,23 +305,6 @@ entries:
       - 7B
       - 13V
     git_url: 'https://github.com/nkityd09/cml_hf_models.git'
-    is_prototype: true
-    is_community: true
-    is_new: false
-  - title: Text to Image Using Stable Diffusion
-    label: CML_AMP-Text-to-Image-with-Stable-Diffusion
-    short_description: |
-        Run a browser interface based on Gradio library for Stable Diffusion within the CML platform.
-    long_description: |
-        Run a browser interface based on Gradio library for Stable Diffusion within the CML platform.
-    long_description_html: |
-        Run a browser interface based on Gradio library for Stable Diffusion within the CML platform.
-    image_path: >-
-      https://raw.githubusercontent.com/kevinbtalbert/CML_AMP-Text-to-Image-with-Stable-Diffusion/master/catalog-entry.png
-    tags:
-      - Text2Image
-      - Stable Diffusion
-    git_url: 'https://github.com/kevinbtalbert/CML_AMP-Text-to-Image-with-Stable-Diffusion.git'
     is_prototype: true
     is_community: true
     is_new: false
@@ -362,11 +345,11 @@ entries:
       Run Solr 9 as an Application within an AMP. Installs necessary Solr and Java runtime components.
     long_description: |
       Run Solr 9 as an Application within an AMP. Installs necessary Solr and Java runtime components. By default, Solr 9.3.0 and Java 11.0.1 will be used.
-    image_path: "https://raw.githubusercontent.com/kevinbtalbert/CML_AMP_Solr_9/main/assets/amp-cover.png"
+    image_path: "https://raw.githubusercontent.com/kevintalbert/CML_AMP_Solr_9/main/assets/amp-cover.png"
     tags: 
       - Solr 9
       - Vector DB
-    git_url: "https://github.com/kevinbtalbert/CML_AMP_Solr_9.git"
+    git_url: "https://github.com/kevintalbert/CML_AMP_Solr_9.git"
     is_prototype: true
     is_community: true
     is_new: false
