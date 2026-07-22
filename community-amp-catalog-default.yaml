@@ -1,6 +1,38 @@
 name: Community
 
 entries:
+  - title: CrewAI Agent Designer
+    label: crewai-agent-designer
+    short_description: |
+      Visually design CrewAI agents, tasks, and crews on Cloudera AI and export production-ready YAML or a Cloudera Agent Studio workflow.
+    long_description: |
+      The CrewAI Agent Designer is a Cloudera AI application for building multi-agent systems visually. Compose agents (role, goal, backstory, tools), define tasks and assignments, wire a crew process, and export agents.yaml, tasks.yaml, and crew.py — or a Cloudera Agent Studio workflow ZIP — without hand-editing configuration.
+
+      AI-assisted drafting uses Cloudera AI Inference by default, with optional OpenAI-compatible and Anthropic backends. LLM configuration is optional; the visual editor works without it.
+    long_description_html: |
+      <p>The CrewAI Agent Designer is a Cloudera AI application for building
+      multi-agent systems visually. Compose agents (role, goal, backstory,
+      tools), define tasks and assignments, wire a crew process, and export
+      <code>agents.yaml</code>, <code>tasks.yaml</code>, and <code>crew.py</code>
+      — or a Cloudera Agent Studio workflow ZIP — without hand-editing
+      configuration.</p>
+      <p>AI-assisted drafting uses Cloudera AI Inference by default, with
+      optional OpenAI-compatible and Anthropic backends. LLM configuration
+      is optional; the visual editor works without it.</p>
+    image_path: >-
+      https://raw.githubusercontent.com/BrooksIan/crewai-agent-designer/refs/heads/main/assets/cover.png
+    tags:
+      - crewai
+      - agents
+      - multi-agent
+      - streamlit
+      - yaml
+      - agent-studio
+    git_url: 'https://github.com/BrooksIan/crewai-agent-designer.git'
+    git_ref: "main"
+    is_prototype: true
+    is_community: true
+    is_new: true
   - title: Image Analysis and OCR with Local Vision AI
     label: image-analysis-ocr
     short_description: |
